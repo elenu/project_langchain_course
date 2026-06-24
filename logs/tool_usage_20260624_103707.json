@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-06-24T10:37:44.419870",
+    "tool_name": "document_search",
+    "input": {
+      "query": "contracts after 2026-06-15",
+      "search_type": "keyword",
+      "doc_type": "contract",
+      "min_amount": null,
+      "max_amount": null,
+      "comparison": null,
+      "amount": null
+    },
+    "output": "{'results_count': 0}"
+  }
+]
